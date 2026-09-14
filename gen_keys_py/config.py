@@ -3,11 +3,11 @@
 
 # Adapt this list based on https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ldap/distinguished-names.
 SUBJECTS_PARAMS = {
-    'C': 'US',
-    'ST': 'California',
-    'L': 'Mountain View',
-    'O': 'Android',
-    'OU': 'Android',
-    'CN': 'Android',
-    'emailAddress': 'android@android.com',
+    'C': 'ID',
+    'ST': 'JawaBarat',
+    'L': 'Jakarta',
+    'O': 'Kurumi',
+    'OU': 'Kuz',
+    'CN': 'Agony',
+    'emailAddress': 'PTpencariharta@gmail.com',
 }
