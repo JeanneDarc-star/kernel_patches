@@ -1,9 +1,1 @@
-# Ignore keys
-*.pem
-*.pk8
-*.avbpubkey
-*.pubkey
-
-## TEST Cases ##
-.android-certs
-## END TEST Cases ##
+__pycache__/
